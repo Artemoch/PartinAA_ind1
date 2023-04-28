@@ -1,0 +1,16 @@
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\bin\Debug\net5.0\Pract_15_cons.exe
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\bin\Debug\net5.0\Pract_15_cons.deps.json
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\bin\Debug\net5.0\Pract_15_cons.runtimeconfig.json
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\bin\Debug\net5.0\Pract_15_cons.runtimeconfig.dev.json
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\bin\Debug\net5.0\Pract_15_cons.dll
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\bin\Debug\net5.0\ref\Pract_15_cons.dll
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\bin\Debug\net5.0\Pract_15_cons.pdb
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\Pract_15_cons.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\Pract_15_cons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\Pract_15_cons.AssemblyInfoInputs.cache
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\Pract_15_cons.AssemblyInfo.cs
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\Pract_15_cons.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\Pract_15_cons.dll
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\ref\Pract_15_cons.dll
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\Pract_15_cons.pdb
+C:\Users\305-11\Desktop\Partin A.A\Алгоритмизация\Pract_15_cons\Pract_15_cons\obj\Debug\net5.0\Pract_15_cons.genruntimeconfig.cache
